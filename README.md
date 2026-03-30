@@ -49,3 +49,6 @@ gymlog-mongodb/
 │   |── queries.js
 |-- README.md
 ```
+
+## Youtube Video
+https://www.youtube.com/watch?v=ZoNaY1aQ0zQ 
