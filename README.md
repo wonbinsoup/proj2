@@ -76,4 +76,4 @@ gymlog-mongodb/
 
 ## Videos
 - Project 2 (MongoDB): https://www.youtube.com/watch?v=ZoNaY1aQ0zQ
-- Project 3 (Redis): [add link after recording]
+- Project 3 (Redis): https://youtu.be/IE1Xd4fsOus
